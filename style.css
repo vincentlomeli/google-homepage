@@ -15,6 +15,16 @@ ul {
 }
 
 /* NAV BAR */
+
+#nav_bar_left {
+  float: left;
+}
+
+#nav_bar_left li {
+  display: inline-block;
+  padding: 8px;
+}
+
 #nav_bar {
   float: right;
 }
@@ -74,6 +84,7 @@ li.nav-links a:hover {
   line-height: 32px;
   padding: 0 8px;
   outline: none;
+  
 }
 
 
