@@ -14,7 +14,7 @@ ul {
   list-style: none;
 }
 
-/* NAV BAR */
+/* NAV BARS */
 
 #nav_bar_left {
   float: left;
@@ -144,7 +144,6 @@ li.nav-links a:hover {
    
   #form-search {
     width: 80%;
- 
   }
    
   footer {
@@ -176,7 +175,6 @@ li.nav-links a:hover {
    li.nav-links a {
      display: none;
    }
-   
    
   #google_logo {
     padding: 0;
