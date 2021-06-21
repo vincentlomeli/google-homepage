@@ -34,6 +34,12 @@ ul {
   padding: 8px;
 }
 
+#apps{
+  font-family: 'Material Icons';
+  font-size: 120%;
+  
+}
+
 #nav_bar #sign_in {
   background: #4887ef; 
   margin-right: 25px;
@@ -84,7 +90,8 @@ li.nav-links a:hover {
   line-height: 32px;
   padding: 0 8px;
   outline: none;
-  
+  font-family: 'Material Icons';
+  font-size: 130%;
 }
 
 
